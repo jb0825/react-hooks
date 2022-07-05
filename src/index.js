@@ -3,7 +3,12 @@ import ReactDOM from "react-dom/client";
 //import App from "useInput";
 //import App from "useTabs";
 //import App from "useTitle";
-import App from "useClick";
+//import App from "useClick";
+//import App from "useConfirm";
+//import App from "usePreventLeave";
+//import App from "useBeforeLeave";
+//import App from "useFadeIn";
+import App from "useNetwork";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
