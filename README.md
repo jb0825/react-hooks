@@ -9,3 +9,6 @@
 - useBeforeLeave
 - useFadeIn
 - useNetwork
+- useScroll
+- useFullScreen
+- useNotification
